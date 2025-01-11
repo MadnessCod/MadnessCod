@@ -29,8 +29,4 @@ Here are some of my favorite projects:
 
 - [Project 1](https://github.com/MadnessCod/TodoListAPI): Simple django API.
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
