@@ -1,4 +1,4 @@
-# Hi there, I'm MadnessCod! 👋
+# Hi there, I'm Sadra! 👋
 
 ## About Me
 
@@ -13,7 +13,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ## My Skills
 
 - **Languages:** Python
-- **Frameworks:** Django, Flask
+- **Frameworks:** Django, Flask, Selenium, Scrapy
 
 ## GitHub Stats
 
