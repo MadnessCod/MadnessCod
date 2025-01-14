@@ -4,11 +4,11 @@
 
 I'm a passionate software developer with a love for coding and problem-solving. My expertise spans across various programming languages and technologies, and I'm always eager to learn more and take on new challenges.
 
-- 🔭 Currently working on: [Your Latest Project](https://github.com/MadnessCod/TodoListAPI)
-- 🌱 Currently learning: [New Technology or Concept](https://www.djangoproject.com/)
+- 🔭 Currently working on: [ExpenseTrackerAPI](https://github.com/MadnessCod/ExpenseTrackerAPI)
+- 🌱 Currently learning: [Django](https://www.djangoproject.com/)
 - 👯 Looking to collaborate on: Open-source projects, innovative ideas, and anything that can make a positive impact.
 - 💬 Ask me about: Python, WebScrapping.
-- 📫 How to reach me: [Your Email Address](sadrahosseini76@tutamail.com)
+- 📫 How to reach me: [Email](sadrahosseini76@tutamail.com)
 
 ## My Skills
 
