@@ -8,7 +8,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - 🌱 Currently learning: [New Technology or Concept](https://www.djangoproject.com/)
 - 👯 Looking to collaborate on: Open-source projects, innovative ideas, and anything that can make a positive impact.
 - 💬 Ask me about: Python, WebScrapping.
-- 📫 How to reach me: [Your Email Address](sadrahosseini76@tutalmail.com)
+- 📫 How to reach me: [Your Email Address](sadrahosseini76@tutamail.com)
 
 ## My Skills
 
