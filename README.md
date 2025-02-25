@@ -5,7 +5,7 @@
 I'm a passionate software developer with a love for coding and problem-solving. My expertise spans across various programming languages and technologies, and I'm always eager to learn more and take on new challenges.
 
 - 🔭 Currently working on: [NoteAPI]([https://github.com/MadnessCod/ExpenseTrackerAPI](https://github.com/MadnessCod/NoteAPI))
-- 🌱 Currently learning: [Django](https://www.djangoproject.com/), [django-rest-framework](https://www.django-rest-framework.org), [Python-Telegram-Bot](https://docs.python-telegram-bot.org/)
+- 🌱 Currently learning: [Django](https://www.djangoproject.com/), [django-rest-framework](https://www.django-rest-framework.org), [Python-Telegram-Bot](https://docs.python-telegram-bot.org/), [Docker[(https://www.docker.com]
 - 👯 Looking to collaborate on: Open-source projects, innovative ideas, and anything that can make a positive impact.
 - 💬 Ask me about: Python, WebScrapping.
 - 📫 How to reach me: [Email](sadrahosseini98@protonmail.com)
