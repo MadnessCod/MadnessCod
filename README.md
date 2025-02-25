@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a love for coding and problem-solving. My expertise spans across various programming languages and technologies, and I'm always eager to learn more and take on new challenges.
 
-- 🔭 Currently working on: [ExpenseTrackerAPI](https://github.com/MadnessCod/ExpenseTrackerAPI)
+- 🔭 Currently working on: [NoteAPI]([https://github.com/MadnessCod/ExpenseTrackerAPI](https://github.com/MadnessCod/NoteAPI))
 - 🌱 Currently learning: [Django](https://www.djangoproject.com/), [django-rest-framework](https://www.django-rest-framework.org), [Python-Telegram-Bot](https://docs.python-telegram-bot.org/)
 - 👯 Looking to collaborate on: Open-source projects, innovative ideas, and anything that can make a positive impact.
 - 💬 Ask me about: Python, WebScrapping.
@@ -27,6 +27,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/MadnessCod/TodoListAPI): Simple django API.
+- [TodoLlist API](https://github.com/MadnessCod/TodoListAPI): Simple django API for tracking notes.
+- [Expense Tracker API](https://github.com/MadnessCod/ExpenseTrackerAPI) Simplae django API with JWT authentication for tracking expenses.
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
